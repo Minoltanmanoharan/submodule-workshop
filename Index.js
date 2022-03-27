@@ -3,4 +3,5 @@ var y = 6;
 var m = 7;
 var n = 8;
 var a = 9;
+var b = 10;
 var z = x + y + m + n + a;
